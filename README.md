@@ -7,7 +7,7 @@
 ### aboutMe.js
 
 ```javascript
-const amado = {
+const idenz = {
     pronouns: "he" | "him",
     code: [Javascript, PHP, HTML, CSS],
     askMeAbout: ["web dev", "tech", "music", "coffee"],
