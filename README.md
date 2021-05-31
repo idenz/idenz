@@ -1,4 +1,4 @@
-## Hi, welcome to my GitHub! 🔥🔥🔥 I'm Idenz, frontend developer
+## Hi, welcome to my GitHub! I'm Idenz, frontend developer 🔥
 
 [![Linkedin: dennydharmawan](https://img.shields.io/badge/-denny-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/denny-dharmawan/)](https://www.linkedin.com/in/denny-dharmawan/)
 
@@ -9,14 +9,16 @@
 ```javascript
 const amado = {
     pronouns: "he" | "him",
-    code: [Javascript, HTML, CSS],
-    askMeAbout: ["web dev", "tech", "crypto", "music", "coffee"],
+    code: [Javascript, PHP, HTML, CSS],
+    askMeAbout: ["web dev", "tech", "music", "coffee"],
     technologies: {
         frontEnd: {
-            css: ["bootstrap", "materialize"]
+            library: ["react"],
+            css: ["bootstrap", "uikit"]
         },
         backEnd: {
-            js: ["firebase", "node"]
+            js: ["express", "node"],
+            php: [],
         }        
     }
 };
