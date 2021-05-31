@@ -1,4 +1,4 @@
-## Hi, welcome to my GitHub! I'm Idenz, frontend developer 🔥
+## Hi there, welcome to my GitHub! I'm Idenz, frontend developer 🔥
 
 [![Linkedin: dennydharmawan](https://img.shields.io/badge/-denny-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/denny-dharmawan/)](https://www.linkedin.com/in/denny-dharmawan/)
 
