@@ -1,6 +1,6 @@
 ## Welcome to my GitHub! I'm Idenz, frontend developer
 
-[![Email: dennydharmawan717@gmail.com](https://img.shields.io/badge/-denny-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/denny-dharmawan/)](https://mailto:deb@empirerecords.biz?)
+[![Email: dennydharmawan717@gmail.com](https://img.shields.io/badge/-denny-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/denny-dharmawan/)](mailto:dennydharmawan717@gmail.com)
 [![Linkedin: dennydharmawan](https://img.shields.io/badge/-denny-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/denny-dharmawan/)](https://www.linkedin.com/in/denny-dharmawan/)
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=amadoabaca.amadoabaca) -->
