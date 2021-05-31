@@ -1,7 +1,9 @@
 ## Welcome to my GitHub! I'm Idenz, frontend developer
 
-[![Linkedin: amadoabaca](https://img.shields.io/badge/-denny-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/denny-dharmawan/)](https://www.linkedin.com/in/denny-dharmawan/)
-![](https://visitor-badge.glitch.me/badge?page_id=amadoabaca.amadoabaca)
+[![Email: dennydharmawan717@gmail.com](https://img.shields.io/badge/-denny-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/denny-dharmawan/)](https://mailto:deb@empirerecords.biz?)
+[![Linkedin: dennydharmawan](https://img.shields.io/badge/-denny-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/denny-dharmawan/)](https://www.linkedin.com/in/denny-dharmawan/)
+
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=amadoabaca.amadoabaca) -->
 
 ### aboutMe.js
 
