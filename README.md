@@ -17,7 +17,7 @@ const idenz = {
             css: ["bootstrap", "uikit"]
         },
         backEnd: {
-            js: ["express", "node"],
+            js: ["express", "nodejs", "typescript"],
             php: [],
         }        
     }
