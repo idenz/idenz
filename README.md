@@ -4,22 +4,27 @@
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=amadoabaca.amadoabaca) -->
 
-### aboutMe.js
+### about_me.js
 
 ```javascript
 const idenz = {
     pronouns: "he" | "him",
-    code: [Javascript, PHP, HTML, CSS],
-    askMeAbout: ["web dev", "tech", "art"],
+    code: [Javascript, Golang, PHP, HTML, CSS],
+    ask_me_about: ["web dev", "tech", "art"],
     technologies: {
-        frontEnd: {
+        backend: {
+            js: ["express", "nodejs", "typescript"],
+            golang: ["echo"],
+            php: ["native"],
+        },
+        database: {
+            sql: ["MySql"],
+            no_sql: ["MongoDB"]
+        },
+        frontend: {
             library: ["react"],
             css: ["bootstrap", "uikit"]
-        },
-        backEnd: {
-            js: ["express", "nodejs", "typescript"],
-            php: [],
-        }        
+        },    
     }
 };
 ```
