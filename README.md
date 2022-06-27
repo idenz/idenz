@@ -10,7 +10,7 @@
 const idenz = {
     pronouns: "he" | "him",
     code: [Javascript, PHP, HTML, CSS],
-    askMeAbout: ["web dev", "tech", "music", "coffee"],
+    askMeAbout: ["web dev", "tech", "art"],
     technologies: {
         frontEnd: {
             library: ["react"],
